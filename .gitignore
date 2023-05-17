@@ -1,0 +1,13 @@
+
+# Notebook
+.ipynb_checkpoints
+
+**.sh
+**.out
+**.npy
+**.pt
+**.pyc
+**.pk
+**.pdf
+**.npz
+**.png
